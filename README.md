@@ -5,7 +5,7 @@ Getting Started
 To get started with this project, simply download or clone the repository and open the index.html file in your browser.
 
 bash
-git clone https://github.com/example/basic-web-page.git
+git clone [https://github.com/example/basic-web-page.git](https://github.com/aguasam/hello_world.git)
 
 Features
 This web page includes the following features:
