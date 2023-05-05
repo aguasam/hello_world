@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(/imagens/flavia.jpg);
+    background-size: 100%;
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
+
+#primo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#imagem-primo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 20%;
+}
+
+.my-div {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+  }
+
+  .colored-div {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+  }
+  .green {
+    background-color: green;
+  }
